@@ -7,12 +7,12 @@ Installation Guide
 Install Anaconda, then the following packages:
 pandas
 Numpy
+nibabel
 matplotlib
-Seaborg
+Seaborn
 Statsmodels
 Scipy
-Patsy
-Functools
+patsy
 Moss
 
 It may be necessary to install the specific versions as described in requirements.txt.
