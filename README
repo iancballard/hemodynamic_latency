@@ -27,5 +27,22 @@ fig2_papaer.ipynb
 fig3_papaer.ipynb
 fig4_papaer.ipynb
 
+Analysis_code
+The scripts in this folder run on large data files not stored on GitHub. They extract and process data and save outputs into CSV formats, where are located in the csvs folder and read by the above scripts.
+
+extract_lags_dopa.ipynb
+This script extracts the median hemodynamic latency from PET ROIs and compiles them in a CSV for PET-latency comparisons
+
+lag_analysis.ipynb
+This script extracts the median hemodynamic latency from Harvard-Oxford ROIs and implements artery control analyses for Figure 2
+
+lag_artery_zones.ipynb
+This script conducts the control analysis to determine whether ACA and MCA arterial zones are associated with different hemodynamic latencies
+
+MSC.ipynb
+This script processes the Midnight Scan Club data and implements the noise model
+
+lag_analysis-cocaine.ipynb
+This script processes the cocaine use disorder dataset and implements the classifier and spatial importance weights analyses.
 
 
