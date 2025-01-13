@@ -26,6 +26,7 @@ The following code reproduces the key figures in the paper. Note that Figure 3 a
 fig2_papaer.ipynb
 fig3_papaer.ipynb
 fig4_papaer.ipynb
+behavioral_correlations.ipynb
 
 Analysis_code
 The scripts in this folder run on large data files not stored on GitHub. They extract and process data and save outputs into CSV formats, where are located in the csvs folder and read by the above scripts.
