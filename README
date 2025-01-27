@@ -23,10 +23,10 @@ The data required to run the files are included in repository. Execute the cells
 Description of Files
 
 The following code reproduces the key figures in the paper. Note that Figure 3 and 4 also contain code for Figures S2 and S3.
-fig2_papaer.ipynb
-fig3_papaer.ipynb
-fig4_papaer.ipynb
-behavioral_correlations.ipynb
+fig2_paper.ipynb
+fig3_paper.ipynb
+fig4_paper.ipynb
+fig5_paper.ipynb
 
 Analysis_code
 The scripts in this folder run on large data files not stored on GitHub. They extract and process data and save outputs into CSV formats, where are located in the csvs folder and read by the above scripts.
