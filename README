@@ -1,7 +1,7 @@
 README for Temporal fMRI Dynamics Map Dopamine Physiology
 
 System Requirements
-The Jupyter notebooks are run using the Anaconda Python distribution on a M1 Mac Laptop running OS Sonoma 14.6. Package requirements can be found in the requirements.txt file. The software has only been tested using this setup.
+The Jupyter notebooks are run using the Anaconda Python distribution on a M1 Mac Laptop running OS Sonoma 14.6. Package requirements can be found in the requirements.txt file. The software has only been tested using this setup and runs in minutes.
 
 Installation Guide
 Install Anaconda, then the following packages:
